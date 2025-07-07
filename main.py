@@ -1,0 +1,1 @@
+# Ana GPT çağrısını ve hafıza yönetimini içerir.

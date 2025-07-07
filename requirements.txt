@@ -1,0 +1,12 @@
+openai
+python-telegram-bot
+python-docx
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+schedule
+PyYAML
+requests
+beautifulsoup4
+googlesearch-python
